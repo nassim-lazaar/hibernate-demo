@@ -77,5 +77,5 @@ Produit{id=2, nom='Smartphone', prix=499.99}
 
 Pour valider le bon fonctionnement de manière visuelle et interactive, le serveur intégré H2 a été lancé sur le port 8082. Voici l'état de la base de données accessible depuis le navigateur :
 
-> [📸 GLISSEZ-DÉPOSEZ ICI VOTRE C<img width="773" height="316" alt="h2_produits_capture" src="https://github.com/user-attachments/assets/68b1fcea-28f1-4e51-8b9d-5719b2df6181" />
-APTURE D'ÉCRAN DU NAVIGATEUR H2]
+><img width="773" height="316" alt="h2_produits_capture" src="https://github.com/user-attachments/assets/68b1fcea-28f1-4e51-8b9d-5719b2df6181" />
+
